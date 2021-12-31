@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=AppImage/Static
+GenericName=AppImage/Static
+Exec=./%F
+Comment=Run binary
+Terminal=true
+Type=Application
+Icon=application-x-executable
