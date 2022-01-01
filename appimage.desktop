@@ -1,8 +1,9 @@
 [Desktop Entry]
-Name=AppImage/Static
-GenericName=AppImage/Static
-Exec=./%F
-Comment=Run binary
-Terminal=true
+Version=1.0
+Name=Set as executable
+GenericName=Set as executable
+Exec=chmod +x %F
+Comment=Set AppImage as executable
+Terminal=false
 Type=Application
 Icon=application-x-executable
